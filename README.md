@@ -1,6 +1,9 @@
 # Projekt Ghost Dive - Junior Sysadmin Homelab
 Inspiriert durch den Anime Ghost in the Shell 1998 I Public Security Section 9
 
+## Vorbereitung
+- Dokumentation geschrieben
+
 ## Phase 0 - Infrastruktur aufsetzten 
 - Windows Server 2022 Active Directory Domain aufgebaut
 - Domain: section9.gov.jp
@@ -18,5 +21,12 @@ Inspiriert durch den Anime Ghost in the Shell 1998 I Public Security Section 9
   Lösung: Ethernet 2 aktiviert und kontroll mite ipconfig
 - Domain Join fehlgeschalgen - Erstellter Benutzer Motoko Kusanagi wurde auf S9-WRK01 nicht als Benutzer erkannt.
   Lösung: Statische IP mit DNS 192.168.9.10 manuell gesetzt und Domain manuell hinzugefügt, war immer noch auf Arbeitsgruppe hinterlegt.
+
+## Phase 1 - 
+- Benutzer angelegt mit CSV-Datei und import in Powershell
+- Sicherheitsgruppen erstellt und Benutzer hinzugefügt
+- Sicherheitsgruppe allUser erstellt und Benutzer hinzugefügt
+- Group Policy Objects (GPO) gesetzt
+  
 
   
