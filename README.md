@@ -33,6 +33,9 @@ Inspiriert durch den Anime Ghost in the Shell 1998 I Public Security Section 9
 - NTFS Berechtigungen gesetzt
 - Drive Mapping GPO
 
+### Erkenntnis
+
+
 ### Troubleshooting
 Restriction bei allen auch local admin/ Domain User gesetzt. Hatte zu folge das ich keine Systemaplikationen mehr öffnen konnte.
 Software-Restriction gezielt auf Abteilung Field_Ops gesetzt.
