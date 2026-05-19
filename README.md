@@ -27,7 +27,7 @@ Inspiriert durch den Anime Ghost in the Shell 1998 I Public Security Section 9
 - 5 OUs erstellt + AllUsers
 - 6 GPOs erstellt
 - FileServer S9-SRV01 aufgebaut
-- 6 Shares mit NTFS Berehctigungen erstellt
+- 6 Shares mit NTFS Berchtigungen erstellt
 - NTFS Berechtigungen gesetzt
 - Drive-Mapping Mission M: hinzugefügt
 
