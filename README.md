@@ -22,16 +22,14 @@ Inspiriert durch den Anime Ghost in the Shell 1998 I Public Security Section 9
 - Domain Join fehlgeschalgen - Erstellter Benutzer Motoko Kusanagi wurde auf S9-WRK01 nicht als Benutzer erkannt.
   Lösung: Statische IP mit DNS 192.168.9.10 manuell gesetzt und Domain manuell hinzugefügt, war immer noch auf Arbeitsgruppe hinterlegt.
 
-## Phase 1 - Sicherheitsgruppe und 
-- Benutzer angelegt mit CSV-Datei und import in Powershell
-- Sicherheitsgruppen erstellt und Benutzer hinzugefügt
-- Sicherheitsgruppe allUser erstellt und Benutzer hinzugefügt
-- Group Policy Objects (GPO) gesetzt
-  Password-Policy, Account-Lockout, Desktop-Policy, Firewall-Policy, USB-Restriction, Software-Restriction
-- FileServer erstellt und Konfiguriert
-- Ordnerstruktur erstellt und freigegeben
+## Phase 1 - FileServer - Shares, NTFS und Drive Mapping
+- 20 Benutzer per PowerShell angelegt
+- 5 OUs erstellt + AllUsers
+- 6 GPOs erstellt
+- FileServer S9-SRV01 aufgebaut
+- 6 Shares mit NTFS Berehctigungen erstellt
 - NTFS Berechtigungen gesetzt
-- Drive Mapping GPO
+- Drive-Mapping Mission M: hinzugefügt
 
 ### Erkenntnis
 
