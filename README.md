@@ -32,11 +32,17 @@ Inspiriert durch den Anime Ghost in the Shell 1998 I Public Security Section 9
 - Drive-Mapping Mission M: hinzugefügt
 
 ### Erkenntnis
-
+Access-Based Enumeration (ABE) nur was erlaubt ist wird angezeigt. Set-SmbShare -Name "Section9" -FolderEnumerationMode AccessBased
+Gruppe AllUsers entfernen hat übergegeriffen und daher wurden alle Ordner bei den Benutzern angezeigt nicht nur die die mit NTFS Berechtigung gesetz wurden. 
 
 ### Troubleshooting
 Restriction bei allen auch local admin/ Domain User gesetzt. Hatte zu folge das ich keine Systemaplikationen mehr öffnen konnte.
 Software-Restriction gezielt auf Abteilung Field_Ops gesetzt.
+
+##Phase 2 
+- Wireshark – Netzwerkverkehr analysieren
+- Backup & Recovery – Windows Server Backup
+- Azure AZ-900 – Cloud Grundlagen
   
 
   
