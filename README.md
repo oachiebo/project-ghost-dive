@@ -39,7 +39,7 @@ Gruppe AllUsers entfernen hat übergegeriffen und daher wurden alle Ordner bei d
 Restriction bei allen auch local admin/ Domain User gesetzt. Hatte zu folge das ich keine Systemaplikationen mehr öffnen konnte.
 Software-Restriction gezielt auf Abteilung Field_Ops gesetzt.
 
-##Phase 2 
+## Phase 2 
 - Wireshark – Netzwerkverkehr analysieren
 - Backup & Recovery – Windows Server Backup
 - Azure AZ-900 – Cloud Grundlagen
