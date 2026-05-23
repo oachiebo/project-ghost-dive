@@ -22,7 +22,7 @@ Inspiriert durch den Anime Ghost in the Shell 1998 I Public Security Section 9
 - Domain Join fehlgeschalgen - Erstellter Benutzer Motoko Kusanagi wurde auf S9-WRK01 nicht als Benutzer erkannt.
   Lösung: Statische IP mit DNS 192.168.9.10 manuell gesetzt und Domain manuell hinzugefügt, war immer noch auf Arbeitsgruppe hinterlegt.
 
-## Phase 1 - FileServer - Shares, NTFS und Drive Mapping
+## Phase 1 - Windows Server Administration
 - 20 Benutzer per PowerShell angelegt
 - 5 OUs erstellt + AllUsers
 - 6 GPOs erstellt
@@ -43,6 +43,10 @@ Software-Restriction gezielt auf Abteilung Field_Ops gesetzt.
 - Wireshark – Netzwerkverkehr analysieren
 - Backup & Recovery – Windows Server Backup
 - Azure AZ-900 – Cloud Grundlagen
+
+###Erkenntnisse
+Keine Verbindung ins Internet um Wireshark herunterzuladen. Adapter 2 (NAT) hinzugefügt der zuvor entfernt wurde. 
+
   
 
   
