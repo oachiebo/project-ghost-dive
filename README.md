@@ -44,8 +44,12 @@ Software-Restriction gezielt auf Abteilung Field_Ops gesetzt.
 - Backup & Recovery – Windows Server Backup
 - Azure AZ-900 – Cloud Grundlagen
 
-###Erkenntnisse
+### Erkenntnisse
+
+
+### Troubleshooting
 Keine Verbindung ins Internet um Wireshark herunterzuladen. Adapter 2 (NAT) hinzugefügt der zuvor entfernt wurde. 
+Firewall Policy angepasst Inbound und Outbound erlaubt und Outbound Regel erlauben Port 443 (HTTPS).
 
   
 
