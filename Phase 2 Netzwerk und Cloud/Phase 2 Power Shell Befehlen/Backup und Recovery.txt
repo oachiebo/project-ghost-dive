@@ -1,2 +1,11 @@
 //Windows Server Backup auf Domain Server installieren 
 Install-WindowsFeature -Name Windows-Server-Backup
+
+//Backup erstellen
+wbadmin start backup -backupTarget:F: -include:C:\Shares -quiet
+
+//Backup anzeigen
+wbadmin get versions -backupTarget:F:
+
+//Backup wiederherstellen
+wbadmin start recovery -version:05/30/2026-15:17 -itemType:File -items:"C:\Shares\Public\BackupTest.txt" -recoveryTarget:"C:\Recovery" -quiet
