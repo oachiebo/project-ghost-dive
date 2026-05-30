@@ -1,8 +1,13 @@
 # Phase 2 Netzwerk und Cloud
 
 ## Backup
-- Festplatte für Backup erstellen 
+- Im VirtualBox neue Festplatte erstellen Format VDI
+- Einloggen in S9-SVR01
+- Windows + R Befehl diskmgmt.msc ausführen
+- Neues einfaches Volume auswählen
+- Laufwerk Buchstaben festlegen
 
+ 
 ##Erkenntnisse Phase 2
 
 ### Troubleshooting Phase 2
