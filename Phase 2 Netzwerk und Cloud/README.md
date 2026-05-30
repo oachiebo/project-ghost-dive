@@ -7,7 +7,11 @@
 - Neues einfaches Volume auswählen
 - Laufwerk Buchstaben festlegen
 
- 
+### Dateien wiederherstellen 
+- Windows Server Backup GUI
+- 
+
+
 ##Erkenntnisse Phase 2
 
 ### Troubleshooting Phase 2
