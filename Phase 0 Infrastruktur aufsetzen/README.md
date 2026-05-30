@@ -1,4 +1,4 @@
-# Phase 0 Infrastruktur aufsetzen
+# Phase 0 Infrastruktur
 
 ## Erkenntnisse
 - DSRM Passwort = Notfall Recovery Passwort
