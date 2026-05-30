@@ -12,7 +12,7 @@
 - 
 
 
-##Erkenntnisse Phase 2
+## Erkenntnisse Phase 2
 
 ### Troubleshooting Phase 2
 Keine Verbindung ins Internet um Wireshark herunterzuladen. Adapter 2 (NAT) hinzugefügt der zuvor entfernt wurde. 
