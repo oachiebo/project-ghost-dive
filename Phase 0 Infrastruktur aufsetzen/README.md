@@ -1,5 +1,9 @@
 # Phase 0 Infrastruktur aufsetzen
 
+## Erkenntnisse
+- DSRM Passwort = Notfall Recovery Passwort
+- NAT Adapter deaktivieren für sauberes Lab
+
 - Windows 10.iso für Workstation heruntergeladen
 https://www.microsoft.com/de-de/software-download/windows10
 
@@ -21,8 +25,4 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 ### Troubleshooting
 Workstation in Domain Join beim ersten mal nicht funktioniert. 
 In S9-WRK01 Grundkonfig geprüft, DNS Adresse hat gefehlt, manuell gesetzt.
-
-## Erkenntnisse
-- DSRM Passwort = Notfall Recovery Passwort
-- NAT Adapter deaktivieren für sauberes Lab
 
