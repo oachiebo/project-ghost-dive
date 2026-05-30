@@ -1,9 +1,9 @@
 # Phase 0 Infrastruktur aufsetzen
 
-Windows 10.iso für Workstation heruntergeladen
+- Windows 10.iso für Workstation heruntergeladen
 https://www.microsoft.com/de-de/software-download/windows10
 
-SERVER_EVAL_x64FRE_en-us.iso (Windows Server 2022) für VM Server heruntergeladen
+- SERVER_EVAL_x64FRE_en-us.iso (Windows Server 2022) für VM Server heruntergeladen
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 
 ## Server und Workstation bereitstellen
