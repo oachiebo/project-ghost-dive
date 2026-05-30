@@ -1,0 +1,6 @@
+New-SmbShare -Name "Missions" -Path "C:\Shares\Missions" -FullAccess "Everyone"
+New-SmbShare -Name "Intelligence" -Path "C:\Shares\Intelligence" -FullAccess "Everyone"
+New-SmbShare -Name "IT-Admin" -Path "C:\Shares\IT-Admin" -FullAccess "Everyone"
+New-SmbShare -Name "Administrator" -Path "C:\Shares\Administrator" -FullAccess "Everyone"
+New-SmbShare -Name "Software" -Path "C:\Shares\Software" -FullAccess "Everyone"
+New-SmbShare -Name "Public" -Path "C:\Shares\Public" -FullAccess "Everyone"
