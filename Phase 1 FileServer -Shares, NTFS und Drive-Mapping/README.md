@@ -2,7 +2,7 @@
 
 ## 1. Active Directory – Benutzer und Gruppen
 - Alle 20 Section 9 Benutzer per PowerShell mit CSV-Import angelegt
-- Sicherheitsgruppen erstellt und Benutzer den entsprechenden Gruppen und OUs zugewiesen
+- Gruppe (GRP) - Sicherheitsgruppe erstellt und Benutzer den entsprechenden Gruppen und OUs zugewiesen
 
 ## 2. File Server – Ordnerstruktur und Freigaben
 - S9-SRV01 in Domain `section9.gov.jp` eingebunden
