@@ -1,8 +1,9 @@
 # Phase 1 FileServer (Shares, NTFS und Drive-Mapping)
 
 ## 1. Active Directory – Benutzer und Gruppen
-- Alle 20 Section 9 Benutzer per PowerShell mit CSV-Import angelegt
-- Gruppe (GRP) - Sicherheitsgruppe erstellt und Benutzer den entsprechenden Gruppen und OUs zugewiesen
+- Alle 20 Section 9 Benutzer per PowerShell mit CSV-Import angelegt ink. zuteilung OUs
+- Gruppe (GRP) - Sicherheitsgruppe erstellt inkl. zuteilung OUs
+- Für GRP_AllUsers Benutzer hinzugefügt
 
 ## 2. File Server – Ordnerstruktur und Freigaben
 - S9-SRV01 in Domain `section9.gov.jp` eingebunden
