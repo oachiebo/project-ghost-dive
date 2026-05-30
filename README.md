@@ -39,17 +39,24 @@ Gruppe AllUsers entfernen hat übergegeriffen und daher wurden alle Ordner bei d
 Restriction bei allen auch local admin/ Domain User gesetzt. Hatte zu folge das ich keine Systemaplikationen mehr öffnen konnte.
 Software-Restriction gezielt auf Abteilung Field_Ops gesetzt.
 
-## Phase 2 
+## Phase 2 Netzwerk und Cloud
 - Wireshark – Netzwerkverkehr analysieren
 - Backup & Recovery – Windows Server Backup
 - Azure AZ-900 – Cloud Grundlagen
 
 ### Erkenntnisse
 
-
 ### Troubleshooting
 Keine Verbindung ins Internet um Wireshark herunterzuladen. Adapter 2 (NAT) hinzugefügt der zuvor entfernt wurde. 
 Firewall Policy angepasst Inbound und Outbound erlaubt und Outbound Regel erlauben Port 443 (HTTPS).
+
+## Phase 3 Security Basics
+- Sysmon installieren
+- Windows Event Logs analysieren
+- Incident Response simulieren
+
+
+
 
   
 
