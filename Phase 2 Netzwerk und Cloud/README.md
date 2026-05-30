@@ -1,6 +1,9 @@
 # Phase 2 Netzwerk und Cloud
 
-## Backup
+## Backup und Recovery
+
+### Backup
+- Windows Server Backup installiert auf DC01 und SRV01
 - Im VirtualBox neue Festplatte erstellen Format VDI
 - Einloggen in S9-SVR01
 - Windows + R Befehl diskmgmt.msc ausführen
